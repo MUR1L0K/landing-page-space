@@ -1,0 +1,158 @@
+#falconSectionOne
+  @include background-style(url("/src/images/falcon/01.jpg") #000 no-repeat, cover, center center)
+  height: 100vh
+
+.sectionTextFalcon
+  height: 80vh
+  font-weight: bolder
+ 
+#falconSectionOneTitle
+  font-size: 90px
+
+  @media screen and ( max-width: 650px )
+    font-size: 35px
+
+#subtitle
+  @media screen and ( max-width: 650px )
+    font-size: 15px
+
+#falconSectionTwo
+  background-color: $backgroundColor
+
+  #firstArticleFalcon
+    gap: 7rem
+
+    div
+      h1
+        font-size: 90px
+
+      p
+        font-size: 20px
+    
+    @media screen and (max-width: 800px) 
+      gap: 2rem
+
+      div
+        h1
+          font-size: 50px !important
+        p
+          font-size: 15px
+
+    @media screen and (max-width: 450px) 
+      gap: 1rem
+
+      div
+        h1
+          font-size: 30px !important
+        p
+          font-size: 10px !important
+        
+  #secondArticleFalcon
+    @include background-style(url("/src/images/falcon/02.jpg") #000 no-repeat, cover, center 55%)
+    margin-top: 50px
+    padding: 82px 0 160px 0
+
+    p
+      width: 640px
+      font-size: 22px
+      line-height: 50px
+      margin: 0 72px
+  
+    @media screen and (max-width: 800px) 
+      p 
+        width: 80% 
+        margin: auto 
+        font-size: 15px 
+        line-height: 30px
+
+.carousel-item
+  #firstCarouselItem
+    @include background-style(url("/src/images/falcon/03.jpg") #000 no-repeat, cover, center 55%)
+
+  #secondCarouselItem
+    @include background-style(url("/src/images/falcon/04.jpg") #000 no-repeat, cover, center 55%)
+  
+  #thirdCarouselItem
+    @include background-style(url("/src/images/falcon/05.jpg") #000 no-repeat, cover, center 55%)
+  
+  #fourthCarouselItem
+    @include background-style(url("/src/images/falcon/06.jpg") #000 no-repeat, cover, center 55%)
+  
+  #fifthCarouselItem
+    @include background-style(url("/src/images/falcon/07.jpg") #000 no-repeat, cover, center 55%)
+
+  .carouselText
+    width: 450px
+    padding-top: 180px
+    padding-bottom: 150px
+    margin-left: 150px 
+
+    @media screen and (max-width: 680px) 
+      margin: 0
+      padding-bottom: 0
+      padding: 5px
+      width: 100%
+
+    @media screen and (max-width: 500px) 
+    font-size: 15px 
+      
+    .carouselTable
+      border-collapse: collapse
+
+      tr
+        border-bottom: 1px solid #fff
+        height: 40px
+        text-indent: 5px  
+
+#falconSectionFour
+  @include background-style(url("/src/images/falcon/08.jpg") #000 no-repeat, cover, 0% 20%)
+
+  .fourthSectionText
+    width: 480px
+    margin-left: 185px
+    padding-top: 180px
+    padding-bottom: 50px
+
+    @media screen and (max-width: 1000px) 
+      margin: auto
+
+    @media screen and (max-width: 550px) 
+      width: 90%
+
+  .fourthSectionTable
+      border-collapse: collapse
+
+      tr
+        border-bottom: 1px solid #fff
+        height: 40px
+        
+
+#falconFifthSection
+  .carousel-item
+    height: 100vh
+
+  .fifthSectionText
+    height: 170%
+
+  .firstItem
+    @include background-style(url("/src/images/falcon/09.jpg") #000 no-repeat, cover, center center)
+
+  .secondItem
+    @include background-style(url("/src/images/falcon/10.jpg") #000 no-repeat, cover, center center)
+
+  .thirdItem
+    @include background-style(url("/src/images/falcon/11.jpg") #000 no-repeat, cover, center center)
+
+  .fourthItem
+    @include background-style(url("/src/images/falcon/12.jpg") #000 no-repeat, cover, center center)
+
+  .fifthItem
+    @include background-style(url("/src/images/falcon/13.jpg") #000 no-repeat, cover, center center)
+
+  .textOverCarouselImg
+    background-color: #000
+    width: 90%
+    margin: auto
+
+    @media screen and (max-width: 500px) 
+      font-size: 12px
