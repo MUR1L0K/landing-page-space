@@ -1,5 +1,5 @@
 #indexSectionOne {
-  background: url("/src/images/index/01.jpg") #000 no-repeat;
+  background: url("../images/index/01.jpg") #000 no-repeat;
   background-size: cover;
   background-position: center center;
 }
@@ -45,7 +45,7 @@
 }
 
 #indexSectionTwo {
-  background: url("/src/images/index/03.jpg") #000 no-repeat;
+  background: url("../images/index/03.jpg") #000 no-repeat;
   background-size: cover;
   background-position: center center;
 }
@@ -54,7 +54,7 @@
 }
 
 #indexSectionThree {
-  background: url("/src/images/index/02.gif") #000 no-repeat;
+  background: url("../images/index/02.gif") #000 no-repeat;
   background-size: cover;
   background-position: center center;
 }
@@ -63,7 +63,7 @@
 }
 
 #indexSectionFour {
-  background: url("/src/images/index/04.jpg") #000 no-repeat;
+  background: url("../images/index/04.jpg") #000 no-repeat;
   background-size: cover;
   background-position: center center;
 }
@@ -87,7 +87,7 @@
 }
 
 #falconSectionOne {
-  background: url("/src/images/falcon/01.jpg") #000 no-repeat;
+  background: url("../images/falcon/01.jpg") #000 no-repeat;
   background-size: cover;
   background-position: center center;
   height: 100vh;
@@ -148,7 +148,7 @@
   }
 }
 #falconSectionTwo #secondArticleFalcon {
-  background: url("/src/images/falcon/02.jpg") #000 no-repeat;
+  background: url("../images/falcon/02.jpg") #000 no-repeat;
   background-size: cover;
   background-position: center 55%;
   margin-top: 50px;
@@ -170,27 +170,27 @@
 }
 
 .carousel-item #firstCarouselItem {
-  background: url("/src/images/falcon/03.jpg") #000 no-repeat;
+  background: url("../images/falcon/03.jpg") #000 no-repeat;
   background-size: cover;
   background-position: center 55%;
 }
 .carousel-item #secondCarouselItem {
-  background: url("/src/images/falcon/04.jpg") #000 no-repeat;
+  background: url("../images/falcon/04.jpg") #000 no-repeat;
   background-size: cover;
   background-position: center 55%;
 }
 .carousel-item #thirdCarouselItem {
-  background: url("/src/images/falcon/05.jpg") #000 no-repeat;
+  background: url("../images/falcon/05.jpg") #000 no-repeat;
   background-size: cover;
   background-position: center 55%;
 }
 .carousel-item #fourthCarouselItem {
-  background: url("/src/images/falcon/06.jpg") #000 no-repeat;
+  background: url("../images/falcon/06.jpg") #000 no-repeat;
   background-size: cover;
   background-position: center 55%;
 }
 .carousel-item #fifthCarouselItem {
-  background: url("/src/images/falcon/07.jpg") #000 no-repeat;
+  background: url("../images/falcon/07.jpg") #000 no-repeat;
   background-size: cover;
   background-position: center 55%;
 }
@@ -219,7 +219,7 @@
 }
 
 #falconSectionFour {
-  background: url("/src/images/falcon/08.jpg") #000 no-repeat;
+  background: url("../images/falcon/08.jpg") #000 no-repeat;
   background-size: cover;
   background-position: 0% 20%;
 }
@@ -254,27 +254,27 @@
   height: 170%;
 }
 #falconFifthSection .firstItem {
-  background: url("/src/images/falcon/09.jpg") #000 no-repeat;
+  background: url("../images/falcon/09.jpg") #000 no-repeat;
   background-size: cover;
   background-position: center center;
 }
 #falconFifthSection .secondItem {
-  background: url("/src/images/falcon/10.jpg") #000 no-repeat;
+  background: url("../images/falcon/10.jpg") #000 no-repeat;
   background-size: cover;
   background-position: center center;
 }
 #falconFifthSection .thirdItem {
-  background: url("/src/images/falcon/11.jpg") #000 no-repeat;
+  background: url("../images/falcon/11.jpg") #000 no-repeat;
   background-size: cover;
   background-position: center center;
 }
 #falconFifthSection .fourthItem {
-  background: url("/src/images/falcon/12.jpg") #000 no-repeat;
+  background: url("../images/falcon/12.jpg") #000 no-repeat;
   background-size: cover;
   background-position: center center;
 }
 #falconFifthSection .fifthItem {
-  background: url("/src/images/falcon/13.jpg") #000 no-repeat;
+  background: url("../images/falcon/13.jpg") #000 no-repeat;
   background-size: cover;
   background-position: center center;
 }
@@ -290,7 +290,7 @@
 }
 
 #spaceSectionOne {
-  background: url("/src/images/space/01.jpg") #000 no-repeat;
+  background: url("../images/space/01.jpg") #000 no-repeat;
   background-size: cover;
   background-position: center center;
   height: 700px;
@@ -356,7 +356,7 @@
 }
 
 #spaceSectionTwo {
-  background: url("/src/images/space/02.jpg") #000 no-repeat;
+  background: url("../images/space/02.jpg") #000 no-repeat;
   background-size: cover;
   background-position: top top;
 }
@@ -386,7 +386,7 @@
 }
 
 #spaceSectionThree {
-  background: url("/src/images/space/03.jpg") #000 no-repeat;
+  background: url("../images/space/03.jpg") #000 no-repeat;
   background-size: cover;
   background-position: top top;
 }
@@ -421,7 +421,7 @@
 }
 
 #spaceSectionFour {
-  background: url("/src/images/space/04.jpg") #000 no-repeat;
+  background: url("../images/space/04.jpg") #000 no-repeat;
   background-size: cover;
   background-position: top top;
 }
@@ -451,7 +451,7 @@
 }
 
 #spaceSectionFive {
-  background: url("/src/images/space/05.jpg") #000 no-repeat;
+  background: url("../images/space/05.jpg") #000 no-repeat;
   background-size: cover;
   background-position: top top;
 }
